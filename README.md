@@ -1,3 +1,3 @@
 # Raspberrypi-pico
-Raspberrypi-pico for EAGLE Library 
-
+Raspberry Pi Pico for EAGLE Library 
+Yk Studio
