@@ -1,2 +1,3 @@
-# RaspberryPI-PICO
-RaspberryPI-PICO For EAGLE Library 
+# Raspberrypi-pico
+Raspberrypi-pico for EAGLE Library 
+
