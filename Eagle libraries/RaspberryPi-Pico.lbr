@@ -917,6 +917,7 @@
 <wire layer="94" width="0.152" x1="15.24" y1="30.48" x2="15.24" y2="-22.86"/>
 <wire layer="94" width="0.152" x1="15.24" y1="-22.86" x2="-15.24" y2="-22.86"/>
 <wire layer="94" width="0.152" x1="-15.24" y1="-22.86" x2="-15.24" y2="30.48"/>
+<text x="-15.24" y="33.655" size="1.48" layer="94" font="vector" ratio="10" rot="R0" align="top-left" distance="92">RaspberryPi Pico</text>
 <pin name="GP0" visible="pin" length="middle" direction="io" x="-20.3200000000004" y="27.9399999999975"/>
 <pin name="GP1" visible="pin" length="middle" direction="io" x="-20.3200000000004" y="25.399999999999"/>
 <pin name="GND@1" visible="pin" length="middle" direction="io" x="-20.3200000000004" y="22.8599999999957"/>
@@ -963,6 +964,7 @@
 <wire layer="94" width="0.152" x1="15.24" y1="30.48" x2="15.24" y2="-27.94"/>
 <wire layer="94" width="0.152" x1="15.24" y1="-27.94" x2="-15.24" y2="-27.94"/>
 <wire layer="94" width="0.152" x1="-15.24" y1="-27.94" x2="-15.24" y2="30.48"/>
+<text x="-15.24" y="33.655" size="1.48" layer="94" font="vector" ratio="10" rot="R0" align="top-left" distance="92">RaspberryPi Pico</text>
 <pin name="GP0" visible="pin" length="middle" direction="io" x="-20.3200000000004" y="27.9399999999975"/>
 <pin name="GP1" visible="pin" length="middle" direction="io" x="-20.3200000000004" y="25.399999999999"/>
 <pin name="GND@1" visible="pin" length="middle" direction="io" x="-20.3200000000004" y="22.8600000000006"/>
@@ -1060,7 +1062,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1123,7 +1125,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1186,7 +1188,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1246,7 +1248,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1306,7 +1308,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1369,7 +1371,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1432,7 +1434,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1492,7 +1494,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1552,7 +1554,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1615,7 +1617,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1678,7 +1680,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1738,7 +1740,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1798,7 +1800,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1861,7 +1863,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
@@ -1924,7 +1926,7 @@
 <technologies>
 <technology name="">
 <attribute name="VALUE" value="None"/>
-<attribute name="MANUFACTURER" value="RaspberryPi"/>
+<attribute name="MANUFACTURER" value="RaspberryPi Pico"/>
 <attribute name="DATASHEET" value="https://datasheets.raspberrypi.org/pico/pico_datasheet.pdf"/>
 <attribute name="GITHUB" value="https://github.com/AmornthepYk"/>
 <attribute name="DESIGNER" value="MingwX007"/>
